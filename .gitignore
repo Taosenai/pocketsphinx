@@ -1,0 +1,10 @@
+
+*.suo
+*.VC.db
+bin/
+*.log
+*FileListAbsolute.txt
+*.obj
+*.tlog
+*.pdb
+*.idb
